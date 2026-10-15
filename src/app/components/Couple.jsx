@@ -117,7 +117,7 @@ export default function Couple() {
                     src={src}
                     alt={`Couple ${index + 1}`}
                     draggable={false}
-                    className="h-7/8 w-full rounded-2xl object-cover shadow-xl border-10"
+                    className=" h-7/8 md:h-full w-full rounded-2xl object-cover shadow-xl border-10"
                   />
                 </div>
               );

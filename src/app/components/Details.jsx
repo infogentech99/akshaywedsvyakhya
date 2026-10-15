@@ -12,7 +12,7 @@ export default function Details() {
   const [revealed, setRevealed] = useState(false);
 
   return (
-    <div className="mx-auto w-full text-center md:py-30 pt-15 pb-20 bg-[url('/assets/family_bg.webp')] bg-no-repeat bg-cover">
+    <div className="mx-auto w-full text-center md:py-30 pt-15 md:pt-40 lg:pt-80 pb-20 bg-[url('/assets/family_bg.webp')] bg-no-repeat bg-cover">
       <p className="text-[17px] md:text-2xl text-[#8c1034] font-cormorant-garamond mt-20">
         With immense joy and love
       </p>

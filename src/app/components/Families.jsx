@@ -2,7 +2,7 @@
 
 export default function Families() {
   return (
-    <section className="w-full overflow-x-clip bg-[url('/assets/family_bg.webp')] bg-cover bg-no-repeat py-20 pt-40 px-12">
+    <section className="w-full overflow-x-clip bg-[url('/assets/family_bg.webp')] bg-cover bg-no-repeat py-20 pt-40 md:pt-60 lg:pt-120 px-12 lg:h-350">
       <p className="text-center text-[16px] uppercase tracking-widest text-[#C99333] font-cormorant-garamond md:text-2xl">
         With Love
       </p>

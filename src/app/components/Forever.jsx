@@ -61,7 +61,7 @@ export default function Forever() {
     </h2>
 
     <div className="flex flex-col items-center justify-center">
-      <h2 className="mt-4 w-60 rounded-full border border-[#C99333] bg-[#F5E3C0] px-2 py-1.5 text-center font-cormorant-garamond text-[12px] uppercase tracking-widest text-[#8c1034] md:text-4xl lg:w-auto lg:text-[40px]">
+      <h2 className="mt-4 w-60 md:w-90 rounded-full border border-[#C99333] bg-[#F5E3C0] px-2 py-1.5 lg:px-20 text-center font-cormorant-garamond text-[12px] uppercase tracking-widest text-[#8c1034] md:text-xl lg:w-auto lg:text-[26px]">
         A Lifetime of Moments
       </h2>
     </div>
