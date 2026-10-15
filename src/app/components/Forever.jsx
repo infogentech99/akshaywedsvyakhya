@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import Couple from "@/app/components/Couple";
+import Couple from "./Couple";
 
 function Reveal({ from = "bottom", className = "", children }) {
   const ref = useRef(null);

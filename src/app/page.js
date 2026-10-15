@@ -1,9 +1,13 @@
 "use client";
-import Details from "@/app/components/Details";
-import Forever from "@/app/components/Forever";
-import Events from "@/app/components/Events";
-import Families from "@/app/components/Families";
-import { useEffect, useState, useRef, useMemo } from "react";
+
+import { useEffect, useState, useRef } from "react";
+
+import Details from "./components/Details";
+import Forever from "./components/Forever";
+import Events from "./components/Events";
+import Families from "./components/Families";
+import RoseHeroTemp from "./components/RoseHeroTemp";
+
 export default function Home() {
  const audioRef = useRef(null);
   const [started, setStarted] = useState(false);
@@ -69,6 +73,9 @@ export default function Home() {
       />
 
       <div className="relative w-full overflow-hidden">
+         <div className="pointer-events-none fixed inset-0 z-20 h-screen w-screen">
+    <RoseHeroTemp />
+  </div>
         <video
           src="/assets/golden.mp4"
           autoPlay
