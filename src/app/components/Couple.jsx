@@ -3,13 +3,15 @@
 import { useEffect, useRef, useState } from "react";
 
 const images = [
-  "/assets/couple_1.jpg",
-  "/assets/couple_2.jpg",
-  "/assets/couple_3.jpg",
-  "/assets/couple_4.jpg",
   "/assets/couple_5.jpg",
   "/assets/couple_6.jpg",
   "/assets/couple_7.png",
+  "/assets/couple_8.jpg",
+  "/assets/couple_9.jpg",
+  "/assets/couple_10.jpg",
+  "/assets/couple_11.jpg",
+  "/assets/couple_12.jpg",
+  "/assets/couple_13.jpg",
 ];
 
 const STICKY_TOP = 96;
@@ -35,16 +37,13 @@ export default function Couple() {
 
         if (total <= 0) return;
 
-        const scrolled = Math.max(
-          0,
-          Math.min(STICKY_TOP - rect.top, total)
-        );
+        const scrolled = Math.max(0, Math.min(STICKY_TOP - rect.top, total));
 
         const progress = scrolled / total;
 
         const index = Math.min(
           images.length - 1,
-          Math.floor(progress * images.length)
+          Math.floor(progress * images.length),
         );
 
         setCurrentIndex((prev) => (prev === index ? prev : index));
@@ -68,9 +67,7 @@ export default function Couple() {
 
   // 👇 Click pe next image
   const goNext = () => {
-    setCurrentIndex((prev) =>
-      prev >= images.length - 1 ? 0 : prev + 1
-    );
+    setCurrentIndex((prev) => (prev >= images.length - 1 ? 0 : prev + 1));
   };
 
   return (
@@ -78,7 +75,7 @@ export default function Couple() {
       ref={trackRef}
       className="relative mt-16"
       style={{
-        height: `${(images.length + 1) * 10}vh`,
+        height: `${(images.length + 1) * 6}vh`,
       }}
     >
       <div
@@ -111,8 +108,7 @@ export default function Couple() {
                     "transform 500ms cubic-bezier(0.22, 1, 0.36, 1), opacity 350ms ease",
                   // 👇 pointerEvents hata diya (ya "auto" kar diya) taaki click kaam kare
                   pointerEvents: isActive ? "auto" : "none",
-                  visibility:
-                    Math.abs(offset) > 3 ? "hidden" : "visible",
+                  visibility: Math.abs(offset) > 3 ? "hidden" : "visible",
                 }}
               >
                 <img

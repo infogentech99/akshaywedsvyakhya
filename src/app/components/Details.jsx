@@ -17,7 +17,7 @@ export default function Details() {
         With immense joy and love
       </p>
       <div className="text-center">
-        <h2 className="text-[#8c1034] font-great-vibes text-center mt-4 md:text-4xl text-[38px] lg:text-[60px] leading-tight">
+        <h2 className="text-[#8c1034] parisienne-regular text-center mt-4 md:text-4xl text-[38px] lg:text-[60px]">
           Akshay & Vyakhya
         </h2>
 

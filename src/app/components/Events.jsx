@@ -94,7 +94,7 @@ export default function Events() {
       <div className="flex scroll-mt-6 flex-col justify-center items-center bg-[url('/assets/cocktail_bg.webp')] bg-cover bg-no-repeat">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mt-16">
         
-          <h2 className="text-[#8c1034] font-great-vibes text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
             Cocktail
           </h2>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
@@ -142,7 +142,7 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
          
-          <h2 className="text-[#8c1034] font-great-vibes text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
             Haldi
           </h2>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
@@ -198,7 +198,7 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
           
-          <h2 className="text-[#8c1034] font-great-vibes text-[44px] md:text-5xl lg:text-[70px] text-center">
+          <h2 className="text-[#8c1034] parisienne-regular text-[44px] md:text-5xl lg:text-[70px] text-center">
             Jaggo/Dhol Night
           </h2>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
@@ -246,7 +246,7 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
        
-          <h2 className="text-[#8c1034] font-great-vibes text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
             Anand Karaj
           </h2>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
