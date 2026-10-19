@@ -7,7 +7,7 @@ import Forever from "./components/Forever";
 import Events from "./components/Events";
 import Families from "./components/Families";
 import RoseHeroTemp from "./components/RoseHeroTemp";
-
+import IntroVideo from "./components/IntroVideo";
 export default function Home() {
  const audioRef = useRef(null);
   const [started, setStarted] = useState(false);
@@ -71,7 +71,7 @@ export default function Home() {
         preload="auto"
         playsInline
       />
-
+ <IntroVideo />
       <div className="relative w-full overflow-hidden">
          <div className="pointer-events-none fixed inset-0 z-20 h-screen w-screen">
     <RoseHeroTemp />

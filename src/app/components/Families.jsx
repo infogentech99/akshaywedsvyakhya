@@ -47,8 +47,8 @@ export default function Families() {
           </p>
           <Link
             href="https://docs.google.com/forms/d/e/1FAIpQLSfUg-USA4m0VUm6fe6M5pi4I8DIf7bACOYoa4Q9bIKE0xDNyg/viewform?usp=publish-editor"
-             target="_blank"
-  rel="noopener noreferrer"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group relative flex items-center justify-center gap-1
   w-full max-w-[170px] min-h-[6px] px-8 mt-2 md:max-w-[270px]
   rounded-full border-[2px] border-[#e8c477]
