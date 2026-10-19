@@ -95,7 +95,7 @@ export default function Events() {
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mt-16">
         
           <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
-            Cocktail
+            After Party
           </h2>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             22 November 2026 · Sunday
@@ -242,7 +242,7 @@ export default function Events() {
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mb-10 mt-16">
           
           <h2 className="text-[#8c1034] parisienne-regular text-[44px] md:text-5xl lg:text-[70px] text-center">
-            Baarat Assembly
+            Assembly of Baraat 
           </h2>
           <p className="text-[#fff] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             24 November 2026 · Tuesday
