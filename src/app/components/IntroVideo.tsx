@@ -107,7 +107,11 @@ export default function IntroVideo() {
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
           }}
-        />
+        >
+          <span className="absolute left-1/2 top-[35%] -translate-x-1/2 -translate-y-1/2 text-center text-4xl font-semibold text-white md:text-4xl font-cormorant-upright">
+   Tap to Reveal
+  </span>
+</button>
       )}
 
       {/* Intro video */}
