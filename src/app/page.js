@@ -93,7 +93,7 @@ export default function Home() {
           </p>
 
           <p className="text-[#634B00] tracking-wider text-[12px] md:text-[14px] mt-4 font-noto-serif">
-            With the blessings of the Almighty
+            With the blessings of the Waheguru Ji
           </p>
 
           <h2 className=" flex flex-col items-center text-[#8c1034] text-[17px] md:text-2xl lg:text-[50px]">
@@ -107,13 +107,14 @@ export default function Home() {
             children
           </p>
           <h2 className=" flex flex-col items-center text-[#C99333] text-3xl md:text-4xl lg:text-[70px] mt-3 font-bold">
-            <span className="font-noto-serif">Akshay Gandhi</span>
-
+            <span className="font-noto-serif">Akshay Gandhi <br/></span>
+<span className="font-noto-serif text-[17px]">(S/O Mrs. Anju Gandhi)</span>
             <span className="font-noto-serif text-base md:text-2xl lg:text-[38px] text-[#634B00]">
               &
             </span>
 
             <span className="font-noto-serif">Vyakhya Narang</span>
+            <span className="font-noto-serif text-[17px]">(D/O Mrs. Shikha & Mr. Gaurav Narang)</span>
           </h2>
           <p className="text-[#634B00] tracking-wider text-[12px] md:text-[14px] mt-4 font-noto-serif w-90">
             with your esteemed presence and blessings

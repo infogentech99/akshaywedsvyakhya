@@ -149,7 +149,7 @@ export default function Events() {
             23 November 2026 · Monday
           </p>
           <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base text-center lg:text-[25px]">
-            11:00 AM <br/> Followed by Lunch
+            11:00 AM 
           </p>
           <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             UDMAN LUXE <br />
@@ -233,6 +233,51 @@ export default function Events() {
           />
         </Reveal>
       </div>
+
+
+ {/* Baarat event */}
+      <div className="flex scroll-mt-6 flex-col justify-center items-center bg-[url('/assets/baarat.webp')] bg-cover bg-no-repeat">
+        
+
+        <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mb-10 mt-16">
+          
+          <h2 className="text-[#8c1034] parisienne-regular text-[44px] md:text-5xl lg:text-[70px] text-center">
+            Baarat Assembly
+          </h2>
+          <p className="text-[#fff] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+            24 November 2026 · Tuesday
+          </p>
+          <p className="text-[#fff] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+            10:30 AM
+          </p>
+          <p className="text-[#fff] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
+            Hotel Riverb near<br />
+            
+            The Tivoli Chattarpur
+          </p>
+
+          <div className="flex flex-col items-center justify-center">
+            <a
+              href="https://maps.app.goo.gl/n2wuAmcjvV9xHW4g7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 w-36 rounded-full border border-[#8c1034] bg-[#f0f0f0] px-2 py-1.5 lg:px-16 lg:py-2.5 md:px-16 md:py-2.5 text-[12px] md:text-[17px] text-center font-cormorant-garamond  tracking-widest text-[#8c1034] transition-all duration-300 hover:bg-[#8c1034] hover:text-white md:w-auto md:text-4xl lg:text-[20px]"
+            >
+              Get Direction
+            </a>
+          </div>
+        </div>
+
+        <Reveal from="bottom" className="w-full md:relative md:left-1/2 md:-translate-x-1/2 md:w-screen">
+          <img
+            src="/assets/baarat_bottom.webp"
+            alt="Wedding Logo"
+            className="block w-full h-auto"
+          />
+        </Reveal>
+      </div>
+
+
 
       {/* anand karaj */}
       <div className="flex scroll-mt-6 flex-col justify-center items-center bg-[url('/assets/akhand_bg.webp')] bg-cover bg-no-repeat">

@@ -17,7 +17,7 @@ export default function Families() {
           </p>
 
           <h2 className="mt-2 text-center text-[32px] leading-none text-[#8c1034] font-great-vibes md:text-[38px]">
-            Gandhi's Family
+            Gandhi Family
           </h2>
         </div>
       </div>
@@ -29,7 +29,7 @@ export default function Families() {
           </p>
 
           <h2 className="mt-2 text-center text-[32px] leading-none text-[#8c1034] font-great-vibes md:text-[38px]">
-            Narang's Family
+            Narang Family
           </h2>
         </div>
       </div>
