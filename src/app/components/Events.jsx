@@ -54,16 +54,16 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-0 md:my-6 mb-6">
           
-          <h2 className="text-[#8c1034] font-great-vibes text-[40px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] font-cormorant-upright font-semibold text-[34px] md:text-5xl lg:text-[70px]">
             Sagan/ Ring Ceremony
           </h2>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             22 November 2026 · Sunday
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             8:00 PM
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base lg:text-[25px] text-center">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base lg:text-[25px] text-center">
             UDMAN LUXE <br />
             (FORMERLY OPPULENT RESORTS) <br />
             F5CP+JF4, 98, Bandh Rd, Chhatarpur, Delhi
@@ -94,16 +94,16 @@ export default function Events() {
       <div className="flex scroll-mt-6 flex-col justify-center items-center bg-[url('/assets/cocktail_bg.webp')] bg-cover bg-no-repeat">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mt-16">
         
-          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[40px] md:text-5xl lg:text-[70px]">
             After Party
           </h2>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             22 November 2026 · Sunday
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             9:00 PM
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             UDMAN LUXE <br />
             (FORMERLY OPPULENT RESORTS) <br />
             F5CP+JF4, 98, Bandh Rd, Chhatarpur, Delhi
@@ -142,16 +142,16 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
          
-          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[44px] md:text-5xl lg:text-[70px]">
             Haldi
           </h2>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             23 November 2026 · Monday
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base text-center lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base text-center lg:text-[25px]">
             11:00 AM 
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             UDMAN LUXE <br />
             (FORMERLY OPPULENT RESORTS) <br />
             F5CP+JF4, 98, Bandh Rd, Chhatarpur, Delhi
@@ -198,16 +198,16 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
           
-          <h2 className="text-[#8c1034] parisienne-regular text-[44px] md:text-5xl lg:text-[70px] text-center">
+          <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[40px] md:text-5xl lg:text-[70px] text-center">
             Jaggo/Dhol Night
           </h2>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             23 November 2026 · Monday
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             8:00 PM
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             UDMAN LUXE <br />
             (FORMERLY OPPULENT RESORTS) <br />
             F5CP+JF4, 98, Bandh Rd, Chhatarpur, Delhi
@@ -241,7 +241,7 @@ export default function Events() {
 
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 md:mt-20 mb-10 mt-16">
           
-          <h2 className="text-[#8c1034] parisienne-regular text-[44px] md:text-5xl lg:text-[70px] text-center">
+          <h2 className="text-white font-cormorant-upright font-semibold  text-[40px] md:text-5xl lg:text-[70px] text-center">
             Assembly of Baraat 
           </h2>
           <p className="text-[#fff] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
@@ -289,18 +289,18 @@ export default function Events() {
           />
         </Reveal>
 
-        <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 my-16">
+        <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mb-16">
        
-          <h2 className="text-[#8c1034] parisienne-regular text-[54px] md:text-5xl lg:text-[70px]">
+          <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[44px] md:text-5xl lg:text-[70px]">
             Anand Karaj
           </h2>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             24 November 2026 · Tuesday
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
             11:30 PM
           </p>
-          <p className="text-[#95651B] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
+          <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             OYSTER GREENS<br />
             THE TIVOLI<br />
             Chhatarpur, Delhi

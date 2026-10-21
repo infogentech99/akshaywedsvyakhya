@@ -62,7 +62,7 @@ export default function Forever() {
           Our Story
         </p>
 
-        <h2 className="mt-4 text-center font-great-vibes text-[42px] leading-tight text-[#8c1034] md:text-4xl lg:text-[60px]">
+        <h2 className="mt-4 text-center font-cormorant-upright font-semibold text-[42px] leading-tight text-[#8c1034] md:text-4xl lg:text-[60px] ">
           Forever Us
         </h2>
 
