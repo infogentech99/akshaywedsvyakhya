@@ -104,7 +104,7 @@ export default function Home() {
 
           <p className="text-[#634B00] tracking-wider text-[12px] md:text-[14px] mt-4 font-noto-serif w-90">
             cordially invite you to grace the Anand Karaj of their beloved
-            children
+            Grandson
           </p>
           <h2 className=" flex flex-col items-center text-[#C99333] text-3xl md:text-4xl lg:text-[70px] mt-3 font-bold">
             <span className="font-noto-serif">Akshay Gandhi <br/></span>
