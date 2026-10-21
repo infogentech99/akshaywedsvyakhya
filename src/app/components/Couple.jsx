@@ -7,11 +7,11 @@ const images = [
   "/assets/couple_6.jpg",
   "/assets/couple_7.png",
   "/assets/couple_8.jpg",
-  "/assets/couple_9.jpg",
-  "/assets/couple_10.jpg",
+ 
   "/assets/couple_11.jpg",
   "/assets/couple_12.jpg",
   "/assets/couple_13.jpg",
+   "/assets/couple_14.jpg",
 ];
 
 const STICKY_TOP = 96;
