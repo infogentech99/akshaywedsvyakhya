@@ -12,12 +12,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://akshaywedsvyakhya.invitearc.com/"),
+  metadataBase: new URL("https://akshayandvyakhya.invitearc.com/"),
 
   openGraph: {
     title: "Akshay & Vyakhya",
     description: "Join as they begin their forever. 22, 23 & 24 November, 2026",
-    url: "https://akshaywedsvyakhya.invitearc.com/",
+    url: "https://akshayandvyakhya.invitearc.com/",
     siteName: "InviteArc",
     images: [
       {
@@ -38,7 +38,7 @@ export const metadata = {
   },
 
   other: {
-    "og:image:secure_url": "https://akshaywedsvyakhya.invitearc.com/og.jpg",
+    "og:image:secure_url": "https://akshayandvyakhya.invitearc.com/og.jpg",
     "og:image:type": "image/jpg",
   },
 };
