@@ -298,7 +298,7 @@ export default function Events() {
             24 November 2026 · Tuesday
           </p>
           <p className="text-[#5e3d22] font-cormorant-garamond text-[15px] md:text-base lg:text-[25px]">
-            11:30 PM
+            11:30 AM
           </p>
           <p className="text-[#5e3d22] font-cormorant-garamond text-[14px] md:text-base text-center lg:text-[25px]">
             OYSTER GREENS<br />

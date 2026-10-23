@@ -98,7 +98,7 @@ export default function Home() {
 
           <h2 className=" flex flex-col items-center text-[#8c1034] text-[17px] md:text-2xl lg:text-[50px]">
             <span className="font-noto-serif">
-              Late Surinder Singh Gandhi & Mrs. Mohinder Kaur Gandhi
+            Mrs. Mohinder Kaur Gandhi & Late Surinder Singh Gandhi 
             </span>
           </h2>
 
